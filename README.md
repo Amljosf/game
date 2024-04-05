@@ -1,1 +1,1 @@
-this is based game using <strong>js  </strong>  
+this is game using <strong>js  </strong>  
