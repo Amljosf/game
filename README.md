@@ -1,1 +1,1 @@
-this is game using <strong>js  </strong>  
+Rock paper scissors
